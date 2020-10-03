@@ -1,0 +1,7 @@
+{
+    "token": "your discord bot token here",
+    "serverID": "your server id here",
+    "roleID": "your role id here",
+
+    "interval": "60"
+}

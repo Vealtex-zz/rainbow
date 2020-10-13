@@ -20,3 +20,6 @@ bot.on("ready", async() => {
 })
 
 bot.login(token)
+
+
+//BIG BIG BIGGGG NOTE: It changes your role color! For example, if you first had red, and you put index.js and the last color was blue, your role is blue too!
